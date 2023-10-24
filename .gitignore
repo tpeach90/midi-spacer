@@ -1,0 +1,7 @@
+.*.py
+run.command
+
+
+__pycache__
+venv
+.vscode
